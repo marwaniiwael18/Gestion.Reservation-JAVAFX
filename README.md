@@ -1,4 +1,3 @@
-égrer une description concise de la gestion des réservations dans votre projet Sportify, voici une suggestion qui couvre les points essentiels que vous avez mentionnés :
 
 Gestion des Réservations
 Sportify simplifie la réservation de terrains sportifs en intégrant des fonctionnalités avancées pour les propriétaires de terrains et les utilisateurs. Les propriétaires peuvent facilement ajouter leurs terrains à l'application, les rendant disponibles pour réservation. Les utilisateurs bénéficient d'une expérience de réservation fluide, avec la possibilité de rechercher, trier et évaluer les terrains, enrichissant ainsi leur choix.
